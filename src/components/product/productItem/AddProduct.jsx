@@ -9,6 +9,8 @@ const AddProduct = () => {
             <div>
                 <label htmlFor="">Category</label>
                 <input type="text" placeholder='product 1' />
+                <input type="text" placeholder='product 1' />
+                <input type="text" placeholder='product 1' />
             </div>
         </form>
     </div>
